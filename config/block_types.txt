@@ -1,0 +1,14 @@
+TYPES_LIST = " -08SDGLW"
+FLOOR = "DG"
+WALLS = "-08S"
+BREAKABLE = "08S"
+DEADLY = " W"
+
+BLOCK_TYPES = {
+#--MISC---------------------------------------------
+" ":"empty.png",
+#--STONES-------------------------------------------
+"-":"stones/large_brick.png", "0":"stones/stone.png", "8":"stones/red_brick.png", "S":"stones/sandstone.png",
+#--PLANTS-------------------------------------------
+"D":"plants/dirt.png", "G":"plants/grass.png", "L":"plants/leaves.png", "W":"plants/water.png"
+}

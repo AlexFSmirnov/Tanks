@@ -1,0 +1,20 @@
+# If the value is -1, the the variable will be calculated automaticaly. Only for (!) variables.
+
+PLAYER1_TEAM = "red"
+PLAYER2_TEAM = "green"
+
+PLAYER1_NAME = "AlexFSmirnov"
+PLAYER2_NAME = "Aryslan"
+
+CELL_W = 51
+CELL_H = 32
+
+CELL_SIDE = 20
+
+MOVEMENT_COOLDOWN = 0
+MOVEMENT_SPEED = -1  #(!)
+ROTATING_SPEED = 10 
+
+BULLET_SPEED = -1    #(!)
+BULLET_LIFETIME = 180
+

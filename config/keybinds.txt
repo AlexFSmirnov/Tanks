@@ -1,0 +1,13 @@
+P1_UP        = K_w
+P1_DOWN      = K_s
+P1_LEFT      = K_a
+P1_RIGHT     = K_d
+P1_FIRE      = K_SPACE
+
+P2_UP        = K_UP
+P2_DOWN      = K_DOWN
+P2_LEFT      = K_LEFT
+P2_RIGHT     = K_RIGHT
+P2_FIRE      = K_RETURN
+
+INSERT_CHEAT = K_INSERT
