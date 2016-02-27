@@ -1,4 +1,0 @@
-BRICK_WALL = "-"
-STONE = "0"
-EMPTY = " "
-BLOCK_TYPES = {"-":"brick.bmp", "0":"stone.bmp", " ":"empty.bmp"}
